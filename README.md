@@ -2,7 +2,7 @@
 This repository presents a potentially safety critical, real-world object detection dataset of humans on various constructions sites.
 
 Find the full dataset here:
-zenodo.org/records/13987179
+https://zenodo.org/records/13987179
 
 LICENSE:
 
