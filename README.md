@@ -14,8 +14,10 @@
 # Person Detection on Construction Sites
 This repository presents a potentially safety critical, real-world object detection dataset of humans on various constructions sites.
 
-Find the full dataset here:
-https://zenodo.org/records/13987179
+Find the full dataset here:  
+[https://zenodo.org/records/13987179](https://zenodo.org/records/13987179)
+
+<img src="example.png" width="800">
 
 ## License
 
