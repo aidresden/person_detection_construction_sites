@@ -1,15 +1,13 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg/1024px-Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg.png" alt="Logo 1" width="300">
+    <td style="border: none; padding: 0;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg/960px-Bundesanstalt_f%C3%BCr_Arbeitsschutz_und_Arbeitsmedizin_Logo.svg.png" alt="Logo 1" width="250">
     </td>
-    <td style="border: none;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOwKclXJG2Xv9wIr2AHzLKfXgpA4fhhkhMQ&s" alt="Logo 2" width="150">
+    <td style="border: none; padding: 0;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOwKclXJG2Xv9wIr2AHzLKfXgpA4fhhkhMQ&s" alt="Logo 2" width="250">
     </td>
   </tr>
 </table>
-
-
 
 # Person Detection on Construction Sites
 This repository presents a potentially safety critical, real-world object detection dataset of humans on various constructions sites.
